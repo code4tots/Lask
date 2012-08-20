@@ -6,6 +6,7 @@ Created on Aug 19, 2012
 from lexer import Token
 
 def parse(s):
+    
     stack = [ [] ]
     for c in s:
         if c == '(' and isinstance(c,Token): stack.append([])

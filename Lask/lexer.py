@@ -4,7 +4,7 @@ Created on Aug 19, 2012
 You might be able to tell from this header that I use Eclipse with PyDev.
 
 I'd appreciate comments, feedback, reasons why my code/explanations sucks, why they're awesome, etc:
- 
+http://revcode.wordpress.com/2012/08/20/writing-your-own-programming-language-part-1-lexing/
 
 @author: math4tots
 '''
